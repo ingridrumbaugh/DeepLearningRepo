@@ -1,0 +1,25 @@
+Started Bundle covers:
+-- Machine Learning 
+-- Neural Networks 
+-- CNNs 
+
+The next bundle is Practitioner which covers deep learning more in-depth. 
+
+Primary deep learning library: Keras. 
+(Maintained by a deep learning researcher at Google) 
+Can use Theano or TensorFlow for backend 
+
+Other deep learning lib used in 3rd bundle: mxnet 
+Specializes in distributed, multi-machine learning 
+Parallelize training across GPUs when training deep neural network 
+architectures on massive datasets (like ImageNet) 
+
+Other Libs: OpenCV, scikit-image, scikit-learn 
+
+TensorFlow & Theano are libs for defining abstract, general purpose computation graphs. Used for deep learning, but not deep learning frameworks. 
+Keras is a deep learning framework providing an API to facilitate building deep
+neural networks. 
+
+Popular CNNs: AlexNet, VGGNet, GoogLeNet, ResNet, SqueezeNet
+
+
